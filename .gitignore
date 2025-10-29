@@ -24,3 +24,6 @@ Thumbs.db  # Windows
 
 # Добавляем имя файла tmp_data.txt
 tmp_data.txt
+
+# Добавляем в исключения файл .DS_Store
+.DS_Store
